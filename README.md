@@ -1,4 +1,4 @@
-# Hoapital_Patient_Analysis
+# Hospital_Patient_Analysis
 
 Power BI Project - Hospital Patient Analysis
 
